@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "",
+    "port": "",
+    "url": "mongodb://admin:admin@ds213118.mlab.com:13118/autopark",
+    "database": "",
+    "password": "admin",
+    "name": "db",
+    "user": "admin",
+    "connector": "mongodb"
+  }
+}
