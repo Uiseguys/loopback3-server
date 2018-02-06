@@ -35,10 +35,6 @@
     "dataSource": "db",
     "public": true
   },
-  "Meetup": {
-    "dataSource": "db",
-    "public": true
-  },
   "Driver": {
     "dataSource": "db",
     "public": true
